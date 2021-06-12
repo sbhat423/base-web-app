@@ -1,16 +1,19 @@
 <template>
   <div id="app">
     <Navbar/>
+    <Posts/>
   </div>
 </template>
 
 <script>
 import Navbar from "./components/Navigation/Navbar.vue";
+import Posts from "./components/Views/Posts.vue";
 
 export default {
   name: 'App',
   components: {
-    Navbar
+    Navbar,
+    Posts
   }
 }
 </script>

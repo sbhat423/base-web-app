@@ -1,8 +1,8 @@
 {
     "posts": [
-        {"title": "First post", "descriptions": "This is my first post"},
-        {"title": "Second post", "descriptions": "This is my second post"},
-        {"title": "Third post", "descriptions": "This is my third post"}
+        {"id": 1, "title": "First post", "description": "This is my first post"},
+        {"id": 2, "title": "Second post", "description": "This is my second post"},
+        {"id": 3, "title": "Third post", "description": "This is my third post"}
     ],
     
     "events": [
